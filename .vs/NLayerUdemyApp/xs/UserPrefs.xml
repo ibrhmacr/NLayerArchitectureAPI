@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{CFDE37A3-3B29-4FC3-9B3A-CF4FB333BA9C}|Default">
+  <MonoDevelop.Ide.ItemProperties.NLayer.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NLayer.Core/Repositories/ICategoryRepository.cs">
+    <Files>
+      <File FileName="NLayer.API/appsettings.json" Line="3" Column="94" />
+      <File FileName="NLayer.Core/Models/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/Models/Category.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/Models/ProductFeature.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/Models/Product.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/Repositories/IGenericRepository.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Repository/Repositories/GenericRepository.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/Services/IService.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Repository/AppDbContext.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/UnitOfWork/IUnitOfWork.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Repository/Configurations/CategoryConfiguration.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Repository/Configurations/ProductConfiguration.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Repository/Configurations/ProductFeatureConfiguration.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Repository/Seeds/CategorySeed.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Repository/UnitOfWorks/UnitOfWork.cs" Line="1" Column="1" />
+      <File FileName="NLayer.API/Program.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Service/Services/Service.cs" Line="1" Column="1" />
+      <File FileName="NLayer.API/Controllers/CategoriesController.cs" Line="1" Column="1" />
+      <File FileName="NLayer.API/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/Repositories/ICategoryRepository.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Repository/Seeds/ProductFeatureSeed.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Repository/Seeds/ProductSeed.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Service/Services/CategoryService.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Service/Services/ProductService.cs" Line="1" Column="1" />
+      <File FileName="NLayer.API/Controllers/CustomBaseController.cs" Line="1" Column="1" />
+      <File FileName="NLayer.API/Controllers/ProductsController.cs" Line="1" Column="1" />
+      <File FileName="NLayer.API/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/DTOs/ProductUpdateDto.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/DTOs/ProductFeatureDto.cs" Line="1" Column="1" />
+      <File FileName="NLayer.Core/DTOs/ProductDto.cs" Line="11" Column="1" />
+      <File FileName="NLayer.Core/Repositories/IProductRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NLayerUdemyApp" expanded="True">
+            <Node name="NLayer.Core" expanded="True">
+              <Node name="Repositories" expanded="True">
+                <Node name="ICategoryRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NLayer.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Debugger.DebugSourceFolders />
+</Properties>

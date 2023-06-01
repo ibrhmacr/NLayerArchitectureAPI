@@ -1,0 +1,12 @@
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/bin/Debug/net6.0/NLayer.Core.deps.json
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/bin/Debug/net6.0/NLayer.Core.dll
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/bin/Debug/net6.0/NLayer.Core.pdb
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/obj/Debug/net6.0/NLayer.Core.csproj.AssemblyReference.cache
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/obj/Debug/net6.0/NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/obj/Debug/net6.0/NLayer.Core.AssemblyInfoInputs.cache
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/obj/Debug/net6.0/NLayer.Core.AssemblyInfo.cs
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/obj/Debug/net6.0/NLayer.Core.csproj.CoreCompileInputs.cache
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/obj/Debug/net6.0/NLayer.Core.dll
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/obj/Debug/net6.0/refint/NLayer.Core.dll
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/obj/Debug/net6.0/NLayer.Core.pdb
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Core/obj/Debug/net6.0/ref/NLayer.Core.dll

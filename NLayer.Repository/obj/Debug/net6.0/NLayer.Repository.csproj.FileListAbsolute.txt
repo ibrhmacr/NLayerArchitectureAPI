@@ -1,0 +1,17 @@
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.deps.json
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.runtimeconfig.json
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.dll
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Repository.pdb
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Core.dll
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/bin/Debug/net6.0/NLayer.Core.pdb
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.AssemblyReference.cache
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.AssemblyInfoInputs.cache
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.AssemblyInfo.cs
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.CoreCompileInputs.cache
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.csproj.CopyComplete
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.dll
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/refint/NLayer.Repository.dll
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.pdb
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/NLayer.Repository.genruntimeconfig.cache
+/Users/ibrahimacar/Projects/NLayerUdemyApp/NLayer.Repository/obj/Debug/net6.0/ref/NLayer.Repository.dll
